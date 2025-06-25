@@ -1,2 +1,3 @@
 Fork process:
-fork, clone, new-branch, make changes, add changes, commit changes, push 
+fork, clone, new-branch, make changes, add changes, commit changes, push
+then open a pull request and hope it gets merged 
