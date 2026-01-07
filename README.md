@@ -1,4 +1,4 @@
-# Intro to git For Data Science modified :)
+# Test repository :)
 
 This repo is used as a test target for the DSR course on git.
 
