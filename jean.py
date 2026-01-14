@@ -1,3 +1,5 @@
 def my_input():
 	print('collaborating on Git is fun')
-my_input()
+
+if __name__ == '__main__':
+    my_input()
