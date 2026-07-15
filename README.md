@@ -31,6 +31,9 @@ Questo repository contiene il materiale originale del corso di Python per DSR, o
 ## Intro in Cherokee
 ᎯᎠ ᎡᏆ ᎣᏍᏓ ᎨᏒ, ᎬᏂᎨᏒ ᎢᏧᏩᏁᏗᏱ ᎬᏂᎨᏒ ᏅᏓᏍᎩᏴᏁᎵ.
 
+## Введение на русском
+Этот большой репозиторий содержит в себе учебные материалы для мастеркласса "Введение в Python"
+
 ## Table of contents
 
 * [About Me](#about-me)
