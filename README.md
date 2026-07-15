@@ -173,3 +173,7 @@ Original content developed by Amélie Anglade is distributed under the MIT licen
 ## New section
 
 New content
+
+## Addition
+
+This README file is incomplete without this section.
