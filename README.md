@@ -27,7 +27,8 @@ merve was here
 Dieses Repo ist uber der Inhalt des original Lektion.
 
 ## Intro in italian
-Questo repository contiene il materiale originale del corso di Python per DSR, ora esperimenti su git.
+Questo repository conteneva il materiale originale del corso di Python per DSR, ora invece esperimenti su git.
+
 ## Intro in Cherokee
 ᎯᎠ ᎡᏆ ᎣᏍᏓ ᎨᏒ, ᎬᏂᎨᏒ ᎢᏧᏩᏁᏗᏱ ᎬᏂᎨᏒ ᏅᏓᏍᎩᏴᏁᎵ.
 
