@@ -16,14 +16,6 @@ def format_transout(inp):
     outlist=inplist.reshape([4, 4]).T.flatten()
     return outlist
 
-def transaxis(axis, amount, unit='deg'):
-    if unit=="rad":
-        rotmat=vmd.evaltcl(f"transaxis {axis} {amount} rad")
-    else:
-        rotmat=vmd.evaltcl(f"transaxis {axis} {amount}")
-    return format_transout(rotmat)
-
-
 def gen_2grid(pos, xdim, ydim, zdim, npoints):
     xpos=np.linspace(int(pos[0])-xdim, int(pos[0])+xdim, num=npoints)
     ypos=np.linspace(int(pos[1])-ydim, int(pos[1])+ydim, num=npoints)
@@ -34,3 +26,6 @@ def gen_2grid(pos, xdim, ydim, zdim, npoints):
 
 if __name__=="__main__":
     fib_theta(100)
+    fib_phi(20)
+    gen_2grid(pos=[0.0, 1.0, -1.0], xdim=10, ydim=10, zdim=10, npoints=11)
+
