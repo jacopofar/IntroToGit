@@ -1,5 +1,5 @@
 def show_meaning():
-    return 42
+    return 42+22
 
-answer_meaning = show_meaning()
+answer_meanning = show_meaning()
 print(answer_meaning)
